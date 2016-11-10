@@ -1,0 +1,15 @@
+1.	Description
+We learned Bayes classifier in our class, and we have implemented the full Bayes and Naïve Bayes in our code by Python.  Meanwhile, there are different Bayes implements in Python unit and different Bayes models in Naïve Bayes, such as ‘Multinomial Naive Bayes’, ‘Bernoulli Naive Bayes’ etc. My project is to better understand different implementations of Bayes, and give the comparison of them
+
+2.	Goal
+•	Better understand Bayes classifier and compare different Python implementation of Bayes classifier.
+•	Analysis different implementations’ advantage and disadvantage, plot the statistic result
+•	Implement other version Bayes classifier by own code, comparing with the library version
+
+3.	Compared Models
+•	Full Bayes
+•	Gaussian Naive Bayes
+•	Multinomial Naive Bayes
+•	Bernoulli Naive Bayes
+We have implemented Full Bayes and Gaussian Naive Bayes in our homework, I need to implement the Multinomial Naive Bayes and Bernoulli Naïve Bayes. Meanwhile, find the l
+4.	Testing
