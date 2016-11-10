@@ -11,11 +11,12 @@
 * To do the comparison, I use a dressing dataset to do training and testing, the dataset is downloaded from [UCI website](https://archive.ics.uci.edu/ml/datasets/Dresses_Attribute_Sales "UCI dataset website")
 
 ## (2) Bayes classifier to be implemented and compared
+### these models can be learned from the [scikit-learn](http://scikit-learn.org/stable/modules/naive_bayes.html "scikit-learn")
 *	Full Bayes
 *	Gaussian Naive Bayes
 *	Multinomial Naive Bayes
 *	Bernoulli Naive Bayes
-### these models can be learned from the [scikit-learn](http://scikit-learn.org/stable/modules/naive_bayes.html "scikit-learn")
+
 
 ## (3) Implementation and language
 * use python to implement the different Bayes classifier
