@@ -2,7 +2,7 @@
 * In this project, I will do the dressing recommendation by different Bayes Classifier using Python 
 * Will also analysis and compare different Bayes classifier
 
-#Authors
+#Author
 #### Pingye Sun
 
 
@@ -15,7 +15,7 @@
 *	Gaussian Naive Bayes
 *	Multinomial Naive Bayes
 *	Bernoulli Naive Bayes
-### these models can be learned from the [http://scikit-learn.org/stable/modules/naive_bayes.html](http://scikit-learn.org/stable/modules/naive_bayes.html "scikit-learn")
+### these models can be learned from the [scikit-learn](http://scikit-learn.org/stable/modules/naive_bayes.html "scikit-learn")
 
 ## (3) the implementation of the method 
 * use python to implement the different Bayes classifier
