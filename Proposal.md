@@ -33,6 +33,6 @@
 
 Sources:
 * [https://en.wikipedia.org/wiki/Naive_Bayes_classifier](https://en.wikipedia.org/wiki/Naive_Bayes_classifier "https://en.wikipedia.org/wiki/Naive_Bayes_classifier")
-* [http://scikit-learn.org/stable/modules/naive_bayes.html](https://en.wikipedia.org/wiki/Naive_Bayes_classifier "https://en.wikipedia.org/wiki/Naive_Bayes_classifier")
-* [https://archive.ics.uci.edu/ml/datasets/Dresses_Attribute_Sales](https://en.wikipedia.org/wiki/Naive_Bayes_classifier "https://en.wikipedia.org/wiki/Naive_Bayes_classifier")
+* [http://scikit-learn.org/stable/modules/naive_bayes.html](http://scikit-learn.org/stable/modules/naive_bayes.html "http://scikit-learn.org/stable/modules/naive_bayes.html")
+* [https://archive.ics.uci.edu/ml/datasets/Dresses_Attribute_Sales](https://archive.ics.uci.edu/ml/datasets/Dresses_Attribute_Sales "https://archive.ics.uci.edu/ml/datasets/Dresses_Attribute_Sales")
 
