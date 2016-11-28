@@ -12,7 +12,8 @@ What we have implemented in class is Full Bayes and Gaussian Naive Bayes.In this
 Meanwhile, there are already Python library package for implementing these Bayes models, I will run and compare them with my own code and
 analyse the difference and efficience, if possible, I will optimize any of them
 
-![Multinomial Bayes](https://github.com/Alex1888/CSE591-Project/blob/master/Pictures/multinomial1.PNG)
+* Multinomial Bayes
+![alt text](https://github.com/Alex1888/CSE591-Project/blob/master/Pictures/multinomial1.PNG)
 
 
 ##(2) Using a systematic method to program and evaluate other algorithms
