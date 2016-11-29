@@ -15,6 +15,8 @@ analyse the difference and efficience, if possible, I will optimize any of them
 * **Multinomial Bayes**
 ![alt text](https://github.com/Alex1888/CSE591-Project/blob/master/Pictures/multinomial1.PNG)
 
+* **Bernoulli Bayes**
+![alt text](https://github.com/Alex1888/CSE591-Project/blob/master/Pictures/Bernoulli1.PNG)
 
 ##(2) Using a systematic method to program and evaluate other algorithms
 
