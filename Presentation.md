@@ -19,5 +19,8 @@ analyse the difference and efficience, if possible, I will optimize any of them
 ![alt text](https://github.com/Alex1888/CSE591-Project/blob/master/Pictures/Bernoulli1.PNG)
 
 ##(2) Using a systematic method to program and evaluate other algorithms
+In this part, I will compare the four Bayes.
+Both with my own code and the python libriary code.
+I will run time test case many times, and count the running time they spent
 
 ##(3) Applying the algorithms to real data and questions of interest
