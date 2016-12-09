@@ -3,5 +3,6 @@
   * Gaussian_bayes.py
   * Multinomial_bayes.py
   * Bernoulli_bayes.py
+  
 ## My test code for Sklearn Naive Bayes library
   * Sklearn_package.py
